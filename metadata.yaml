@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Knut_Wicksell
     - http://sv.wikipedia.org/wiki/Knut_Wicksell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15761#Om-utvandringen-dess-betydelse-och-orsakerden-3-December-1881
 gutenberg_issued: '2005-05-03'
 gutenberg_type: Text
 identifiers:
