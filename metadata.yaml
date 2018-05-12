@@ -1,0 +1,31 @@
+_repo: Om-utvandringen-dess-betydelse-och-orsakerden-3-December-1881_15761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wicksell, Knut
+    alias: Wicksell, Johan Gustaf Knut
+    birthdate: 1851
+    deathdate: 1926
+    gutenberg_agent_id: '6258'
+    url: http://www.gutenberg.org/2009/agents/6258
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Knut_Wicksell
+    - http://sv.wikipedia.org/wiki/Knut_Wicksell
+description: ''
+gutenberg_issued: '2005-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15761'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JV'
+- !lcsh 'Sweden -- Emigration and immigration -- Economic aspects'
+title: "Om utvandringen, dess betydelse och orsaker\r\nFöredrag, hållet i Stockholm\
+  \ den 25 och den 28 November samt i Upsala den 3 December 1881"
+url: http://www.gutenberg.org/ebooks/15761
